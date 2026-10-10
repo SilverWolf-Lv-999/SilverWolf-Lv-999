@@ -6,14 +6,14 @@
 
 <p>写代码，做点有趣的东西，偶尔摸鱼。</p>
 
+<img src="./assets/old_hello.svg" alt="Hello" width="310" />
+
 <a href="https://github.com/SilverWolf-Lv-999">GitHub</a>
 <span> · </span>
 <a href="https://gitee.com/daichangs_mc">Gitee</a>
 </div>
 
 ---
-
-## About
 
 <img align="right" src="./assets/silver-wolf-sticker.png" alt="Silver Wolf Sticker" width="140" />
 
