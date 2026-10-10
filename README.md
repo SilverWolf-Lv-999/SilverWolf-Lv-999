@@ -17,15 +17,9 @@
 
 <img align="right" src="./assets/silver-wolf-sticker.png" alt="Silver Wolf Sticker" width="140" />
 
-你好，我是 `SilverWolf-Lv-999`。
+ `SilverWolf-Lv-999`
 
-这里主要放我的代码、实验项目和一些突然冒出来的想法。
-
-目前感兴趣的方向：
-
-- Minecraft / Forge
-- Java / ASM
-- 开源工具与实验项目
+都给来玩《崩坏：星穹铁道》
 
 <br clear="right" />
 
