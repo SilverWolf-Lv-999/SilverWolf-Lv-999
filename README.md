@@ -4,7 +4,7 @@
 
 # SilverWolf-Lv-999
 
-<p>写代码，做点有趣的东西，偶尔摸鱼。</p>
+<p>摸鱼使我快乐</p>
 
 <img src="./assets/old_hello.svg" alt="Hello" width="310" />
 
