@@ -4,14 +4,7 @@
 
 # SilverWolf-Lv-999
 
-<p>摸鱼使我快乐</p>
-
 <img src="./assets/old_hello.svg" alt="Hello" width="310" />
-
-<a href="https://github.com/SilverWolf-Lv-999">GitHub</a>
-<span> · </span>
-<a href="https://gitee.com/daichangs_mc">Gitee</a>
-</div>
 
 ---
 
@@ -19,7 +12,7 @@
 
  `SilverWolf-Lv-999`
 
-都给来玩《崩坏：星穹铁道》
+免费的你还想要啥自行车
 
 <br clear="right" />
 
@@ -32,4 +25,10 @@
 
 <div align="center">
   <sub>银狼主题素材来自《崩坏：星穹铁道》，版权归 HoYoverse 所有。</sub>
+</div>
+
+- - - 
+<a href="https://github.com/SilverWolf-Lv-999">GitHub</a>
+<span> · </span>
+<a href="https://gitee.com/daichangs_mc">Gitee</a>
 </div>
